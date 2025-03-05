@@ -23,6 +23,7 @@ Frontend:
 - CSS3
 - JavaScript
 - Bootstrap (for responsive design)
+  
 Backend:
 - Java EE (for server-side logic)
 - JSP (JavaServer Pages for dynamic content)
